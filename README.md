@@ -22,7 +22,7 @@ Note: You might have to update pip3, before installing tensortrade.
 
 
 
-### Jupyter Notebook Installation:
+## Jupyter Notebook Installation:
 
 ```
 pip3 install notebook
