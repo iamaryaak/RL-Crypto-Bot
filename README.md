@@ -9,6 +9,6 @@
 #### MacOS
 
 ```
-Click on PyCharm -> Preferences -> Project -> Python Interpreter -> Click the '+' -> 
+PyCharm -> Preferences -> Project -> Python Interpreter -> '+' -> 
 Search for Tensortrade and install the package
 ```
