@@ -1,5 +1,8 @@
 # 443-Proj - Crypto Trading Bot
 
+Problem: Can reinforcement learning be used to devise an optimal cryptocurrency trading strategy?
+
+
 ## Framework(s): TensorTrade
 
 ## Installation for TensorTrade
