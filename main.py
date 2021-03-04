@@ -1,4 +1,3 @@
-import ta
 
 import pandas as pd
 import tensortrade.env.default as default
