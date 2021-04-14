@@ -1,0 +1,7 @@
+tensorflow==1.14.0
+stable_baselines
+pandas
+numpy
+gym
+matplotlib
+mpi4py
