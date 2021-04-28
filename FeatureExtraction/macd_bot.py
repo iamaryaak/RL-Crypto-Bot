@@ -157,8 +157,8 @@ print('Portfolio: $' + '%.3f' % get_value())
 # Decide how much risk we want to take on
 # TODO: Experiment with these values to find what gets us the best % return
 #           THIS IS THE HIGHEST PRIORITY TASK ^^ none of the others ones are strictly necessary :)
-max_purchase = 5000  # The maximum BTC we're willing to purchase when things are trending up
-max_sale = 2500  # The maximum BTC we're willing to sell when things are trending down
+max_purchase = 5000  # The maximum BTC/ETH we're willing to purchase when things are trending up
+max_sale = 2500  # The maximum BTC/ETH we're willing to sell when things are trending down
 # Populate portfolio column, from row 1 to len(df) - 1
 for row in range(1, len(df)):
     # Booleans to capture our actions
