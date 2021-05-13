@@ -1,20 +1,10 @@
-# 443-Proj - Crypto Trading Bot
+# Using Reinforcement Learning to Trade Cryptocurrencies
+This repository contains code to accompany our working paper, "Using Reinforcement Learning to Trade Cryptocurrencies". The work began as a course project at Rutgers University, New Brunswick, under the supervision of Professor Mubbasir Kapadia.
 
-Problem: Can reinforcement learning be used to devise an optimal cryptocurrency trading strategy?
+# Setting up
+Run `pip install -r requirements.txt` in a console to load up necessary packages.
 
+# Running the RL Bots
 
-## Framework(s): OpenAI Gym
-
-### PyCharm Virtual Environment:
-
-#### MacOS
-
-```
-PyCharm -> Preferences -> Project -> Python Interpreter -> '+' -> Search for <package> and install the package
-```
-
-### Install with terminal/command line
-
-```
-pip3 install <package>
-``` 
+# Running the Baseline
+Run `python3 macd_bot.py`. The console will list actions taken and final performance; the GUI will graph coin, MACD, signal, and portfolio value over time.
